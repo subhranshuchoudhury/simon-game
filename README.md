@@ -2,7 +2,7 @@
 # <img src="https://img.shields.io/badge/Status%3A-Complete-green"> <img src="https://img.shields.io/badge/Responsive%3A-Yes-yellow">
 Simon is an electronic game of short-term memory skill. Play the intresting game and increase your memory.
 
-# [Play Game]('https://subhranshuchoudhury.github.io/simon-game')
+[Play Game]('https://subhranshuchoudhury.github.io/simon-game')
 
 # Screenshots
 
