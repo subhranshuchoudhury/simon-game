@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+body{
+	background: #2A2550;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.game-title,h3{
+	text-align: center;
+	display: table;
+	margin: 10px;
+	color: #efef;
+}
+h3{
+	margin-top: 40px;
+	font-size: 17px;
+}
+
+.score{
+	color: yellow;
+
+}
+.btn-container{
+	margin: 60px auto 90px;
+}
+
+.btn{
+	height: 100px;
+	width: 100px;
+	margin: 20px;
+	color: transparent;
+	border: none;
+	box-shadow: 5px 10px #251D3A;
+
+}
+.btn:hover{
+	cursor: pointer;
+	border: 3px solid white;
+}
+
+.red{
+	background-color: red;
+}
+
+.green{
+	background-color: green;
+}
+
+.yellow{
+	background-color: yellow;
+}
+
+.blue{
+	background-color: blue;
+}
+
+.s-btn{
+  background: #251D3A;
+  border-radius: 28px;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+	box-shadow: 5px 10px #251D3A;
+
+}
+.s-btn:hover{
+  background: #FF7700;
+  
+}
+
+.footer a{
+	color: grey;
+	text-decoration: none;
+	padding: 20px;
+	font-size: 10px;
+}
+
+.footer a:hover{
+	background-color: #251D3A;
+	color: #FF7700;
+	font-size: 11px;
+}
+
+.footer{
+	text-align: center;
+	margin: 80px auto 10px;
+}
+
+.selected{
+	box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+
+.thanks{
+	margin: 20px auto 0;
+	font-size: 5px;
+	color: black;
+}
